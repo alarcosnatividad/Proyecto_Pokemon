@@ -1,3 +1,3 @@
-# ejemplo-daw
+# Proyecto_Pokemon
 
-es un ejemplo para la clase lalalal yujuuu como mola
+
